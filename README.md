@@ -43,7 +43,7 @@ calc.html
 </head>
 <body>
     <div class="container">
-        <h1>Keerthivasan's Calculator</h1>
+        <h1>GOWTHAM's Calculator</h1>
 
         <div class="calculator">
             <input type="text" name="screen" id="screen">
@@ -160,8 +160,11 @@ h1{
 ```
 
  ## OUTPUT:
-![Alt text](cal1.png)
-![Alt text](cal2.png)
+
+![cal1](https://github.com/Gowtham-jk/calculater/assets/149857834/7e2d6891-4e9a-4175-a742-493485cd56a3)
+![cal2](https://github.com/Gowtham-jk/calculater/assets/149857834/8bd8db40-4f08-4a95-a4f5-1ad1d27c708d)
+
+
 ## Result:
 
 THE PROGRAM WAS EXECUTED SUCCESSFULLY.
