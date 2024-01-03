@@ -7,15 +7,18 @@ To design a web application for a standard calculator.
 ## DESIGN STEPS:
 
 ### Step 1:
+
  Fork the github repository at https://github.com/gowriganeshns/standard-calculator
 
 ### Step 2:
+ 
  cd standard-calculator and then create a django project by typing:
 
  django-admin startproject myproj
 
 
 ### Step 3:
+ 
  go to settings.py under myproj/myproj and make the following changes
 
  1) in line 14, add import os
@@ -30,6 +33,7 @@ To design a web application for a standard calculator.
 
 
 ### Step 4:
+
  Now that we have made the changes, type the following commands to create a folder static, and then another folder html in it.
 
  (from standard-calculator/myproj)
@@ -40,6 +44,7 @@ To design a web application for a standard calculator.
  cd html
 
 ### Step 5:
+
  create a html file under html folder
 
  touch calc.html
